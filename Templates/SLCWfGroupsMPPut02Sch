@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflowSlcGroup>
+  <id>&id01;</id>
+  <desc>&desc01;</desc>
+  <enabled>&enabled;</enabled>
+  <correlatorSource>&correlatorsource;</correlatorSource>
+  <schedules>
+    <schedule>&schedule01;</schedule>
+	<schedule>&schedule02;</schedule>
+  </schedules>
+  <visibilityGroups>&visibilitygroups;</visibilityGroups>
+  <missingEvent>&missingevent;</missingEvent>
+  <suppressMilestoneMessages>&suppressmilestonemessages;</suppressMilestoneMessages>
+  <monitorToleranceStart>&monitortolerancestart;</monitorToleranceStart>
+  <monitorToleranceEnd>&monitortoleranceend;</monitorToleranceEnd>
+  <jeopardyList>&jeopardylist;</jeopardyList>
+  <fireOnceList>&fireoncelist;</fireOnceList>
+  <concurrenceCount>&concurrencecount;</concurrenceCount>
+  <relativeMilestoneSchedules>&relativemilestoneschedules;</relativeMilestoneSchedules>
+  <milestones>
+    <milestone>
+      <id>&id02;</id>
+      <desc>&desc02;</desc>
+      <correlatorSource>&correlatorsource;</correlatorSource>
+      <properties>
+        <property>
+          <propertyName>&propertyname01;</propertyName>
+          <propertyValue>&propertyvalue01;</propertyValue>
+          <isRegex>&isregex01;</isRegex>
+        </property>
+        <property>
+          <propertyName>&propertyname02;</propertyName>
+          <propertyValue>&propertyvalue02;</propertyValue>
+          <isRegex>&isregex02;</isRegex>
+        </property>
+        <property>
+          <propertyName>&propertyname03;</propertyName>
+          <propertyValue>&propertyvalue03;</propertyValue>
+          <isRegex>&isregex03;</isRegex>
+        </property>
+        <property>
+          <propertyName>&propertyname04;</propertyName>
+          <propertyValue>&propertyvalue04;</propertyValue>
+          <isRegex>&isregex04;</isRegex>
+        </property>
+      </properties>
+      <calendarSchedule>
+        <nsr>
+          <start>&start;</start>
+          <end>&end;</end>
+        </nsr>
+      </calendarSchedule>
+    </milestone>
+  </milestones>
+</workflowSlcGroup>
+

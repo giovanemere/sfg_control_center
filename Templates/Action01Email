@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<action>
+  <id>&id;</id>
+  <desc>&desc;</desc>
+  <vistype>&vistype;</vistype>
+  <smtpFromAddr>&smtpfromaddr;</smtpFromAddr>
+  <email>&email;</email>
+  <emailLists>
+    <emailList>&emaillist01;</emailList>
+  </emailLists>
+  <emailSubject>&emailsubject;</emailSubject>
+  <emailText>&greeting; 
+  
+&emailtext;
+			
+&thanks;
+			
+&attentively;
+			
+&sterlingteam; 
+	</emailText>
+  <alert>&alert;</alert>
+</action>

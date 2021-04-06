@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emailList>
+  <desc>&desc;</desc>
+  <emailAddresses>&emailaddresses;</emailAddresses>
+  <id>&id;</id>
+  <vistype>&vistype;</vistype>
+</emailList>

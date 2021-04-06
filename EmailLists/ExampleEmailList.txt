@@ -1,0 +1,7 @@
+#ExampleEmailList
+copy EmailList
+&desc;				=	Equipo administraci&#243;n Sterling B2B y Sterling File Gateway
+&emailaddresses;	=	edisson.zuniga@aossas.com,eduart.doria@aossas.com
+&id;				=	ExampleEmailList
+&vistype;			=	private
+EMAILLIST

@@ -1,0 +1,9 @@
+#ExampleRules
+copy RuleMatch
+&id;			=	ExampleRules
+&desc;			=	Monitorear archivos pdf
+&actionId;		=	ExampleActions
+&enabled;		=	false
+&builtIn;		=	false
+&match;			=	&quot;/event[messageId = &#39;CSLC034E&#39; and groupId = &#39;ExampleSLCWorkFlowGroup&#39;]&quot;
+RULE

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar>
+  <id>&id;</id>
+  <desc>&desc;</desc>
+  <recurrencePattern>
+    <startDate>&startdate;</startDate>
+    <endDate>&enddate;</endDate>
+    <frequency>&frequency;</frequency>
+    <type>&type;</type>
+    <weekly>
+      <weekday>&weekday01;</weekday>
+      <weekday>&weekday02;</weekday>
+      <weekday>&weekday03;</weekday>
+      <weekday>&weekday04;</weekday>
+      <weekday>&weekday05;</weekday>
+    </weekly>
+  </recurrencePattern>
+  <vistype>&vistype;</vistype>
+</calendar>

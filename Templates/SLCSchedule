@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendarSchedule>
+  <id>&id;</id>
+  <name>&name;</name>
+  <desc>&desc;</desc>
+  <ner>
+    <day>&dayner;</day>
+    <end>&endner;</end>
+    <start>&startner;</start>
+  </ner> 
+  <nsr>
+    <end>&endnsr;</end>
+    <start>&startnsr;</start>
+  </nsr> 
+  <timeZone>&timezone;</timeZone>
+  <calendarId>&calendarid;</calendarId>
+  <enabled>&enabled;</enabled>
+  <simpleSlc>&simpleslc;</simpleSlc>
+  <enabled>&enabled;</enabled>
+  <vistype>&vistype;</vistype>
+</calendarSchedule>

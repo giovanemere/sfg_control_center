@@ -1,0 +1,18 @@
+#ActionExample
+copy Action01Email
+&id;			=	ActionExample
+&desc;			=	Archivos pdf (Notificaci&#243;n para el equipo de negocio Corresponsales Bancarios)
+&vistype;		=	private
+&smtpfromaddr;	=	sterling@itau.co
+&email;			= 
+
+&emaillist01;	=	ExampleEmailList
+
+&emailsubject;	=	No hay envío de archivos pdf
+&greeting;		=	Buen d&#237;a,
+&emailtext;		=	No hay envío de archivos pdf. Por favor validar. 
+&thanks;		=	Gracias. 
+&attentively;	=	Atentamente,
+&sterlingteam;	=	Equipo Sterling
+&alert;			=	2
+ACTION

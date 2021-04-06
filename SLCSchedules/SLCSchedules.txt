@@ -1,0 +1,2155 @@
+#SLCSchedulesDaily
+#00:30 Daily
+copy SLCSchedule
+&id;			=	00-30 Daily
+&name;			= 	00-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 00:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	00:30
+&startnsr;		=	00:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#01:00 Daily
+copy SLCSchedule
+&id;			=	01-00 Daily
+&name;			= 	01-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 01:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	01:00
+&startnsr;		=	00:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#01:30 Daily
+copy SLCSchedule
+&id;			=	01-30 Daily
+&name;			= 	01-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 01:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	01:30
+&startnsr;		=	01:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#02:00 Daily
+copy SLCSchedule
+&id;			=	02-00 Daily
+&name;			= 	02-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 02:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	02:00
+&startnsr;		=	01:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#02:30 Daily
+copy SLCSchedule
+&id;			=	02-30 Daily
+&name;			= 	02-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 02:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	02:30
+&startnsr;		=	02:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#03:00 Daily
+copy SLCSchedule
+&id;			=	03-00 Daily
+&name;			= 	03-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 03:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	03:00
+&startnsr;		=	02:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#03:30 Daily
+copy SLCSchedule
+&id;			=	03-30 Daily
+&name;			= 	03-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 03:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	03:30
+&startnsr;		=	03:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#04:00 Daily
+copy SLCSchedule
+&id;			=	04-00 Daily
+&name;			= 	04-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 04:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	04:00
+&startnsr;		=	03:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#04:30 Daily
+copy SLCSchedule
+&id;			=	04-30 Daily
+&name;			= 	04-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 04:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	04:30
+&startnsr;		=	04:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#05:00 Daily
+copy SLCSchedule
+&id;			=	05-00 Daily
+&name;			= 	05-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 05:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	05:00
+&startnsr;		=	04:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#05:30 Daily
+copy SLCSchedule
+&id;			=	05-30 Daily
+&name;			= 	05-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 05:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	05:30
+&startnsr;		=	05:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#06:00 Daily
+copy SLCSchedule
+&id;			=	06-00 Daily
+&name;			= 	06-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 06:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	06:00
+&startnsr;		=	05:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#06:30 Daily
+copy SLCSchedule
+&id;			=	06-30 Daily
+&name;			= 	06-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 06:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	06:30
+&startnsr;		=	06:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#07:00 Daily
+copy SLCSchedule
+&id;			=	07-00 Daily
+&name;			= 	07-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 07:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	07:00
+&startnsr;		=	06:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#07:30 Daily
+copy SLCSchedule
+&id;			=	07-30 Daily
+&name;			= 	07-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 07:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	07:30
+&startnsr;		=	07:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#08:00 Daily
+copy SLCSchedule
+&id;			=	08-00 Daily
+&name;			= 	08-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 08:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	08:00
+&startnsr;		=	07:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#08:30 Daily
+copy SLCSchedule
+&id;			=	08-30 Daily
+&name;			= 	08-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 08:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	08:30
+&startnsr;		=	08:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#09:00 Daily
+copy SLCSchedule
+&id;			=	09-00 Daily
+&name;			= 	09-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 09:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	09:00
+&startnsr;		=	08:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#09:20 Daily
+copy SLCSchedule
+&id;			=	09-20 Daily
+&name;			= 	09-20 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 09:20 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	09:20
+&startnsr;		=	09:19
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#09:30 Daily
+copy SLCSchedule
+&id;			=	09-30 Daily
+&name;			= 	09-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 09:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	09:30
+&startnsr;		=	09:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#10:00 Daily
+copy SLCSchedule
+&id;			=	10-00 Daily
+&name;			= 	10-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 10:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	10:00
+&startnsr;		=	09:59
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#10:30 Daily
+copy SLCSchedule
+&id;			=	10-30 Daily
+&name;			= 	10-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 10:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	10:30
+&startnsr;		=	10:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#10:45 Daily
+copy SLCSchedule
+&id;			=	10-45 Daily
+&name;			= 	10-45 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 10:45 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	10:45
+&startnsr;		=	10:44
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#11:00 Daily
+copy SLCSchedule
+&id;			=	11-00 Daily
+&name;			= 	11-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 11:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	11:00
+&startnsr;		=	10:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#11:30 Daily
+copy SLCSchedule
+&id;			=	11-30 Daily
+&name;			= 	11-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 11:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	11:30
+&startnsr;		=	11:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#12:00 Daily
+copy SLCSchedule
+&id;			=	12-00 Daily
+&name;			= 	12-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 12:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	12:00
+&startnsr;		=	11:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#12:30 Daily
+copy SLCSchedule
+&id;			=	12-30 Daily
+&name;			= 	12-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 12:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	12:30
+&startnsr;		=	12:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#13:00 Daily
+copy SLCSchedule
+&id;			=	13-00 Daily
+&name;			= 	13-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 13:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	13:00
+&startnsr;		=	12:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#13:30 Daily
+copy SLCSchedule
+&id;			=	13-30 Daily
+&name;			= 	13-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 13:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	13:30
+&startnsr;		=	13:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#14:00 Daily
+copy SLCSchedule
+&id;			=	14-00 Daily
+&name;			= 	14-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 14:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	14:00
+&startnsr;		=	13:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#14:30 Daily
+copy SLCSchedule
+&id;			=	14-30 Daily
+&name;			= 	14-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 14:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	14:30
+&startnsr;		=	14:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#15:00 Daily
+copy SLCSchedule
+&id;			=	15-00 Daily
+&name;			= 	15-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 15:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	15:00
+&startnsr;		=	14:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#15:30 Daily
+copy SLCSchedule
+&id;			=	15-30 Daily
+&name;			= 	15-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 15:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	15:30
+&startnsr;		=	15:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#16:00 Daily
+copy SLCSchedule
+&id;			=	16-00 Daily
+&name;			= 	16-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 16:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	16:00
+&startnsr;		=	15:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#16:30 Daily
+copy SLCSchedule
+&id;			=	16-30 Daily
+&name;			= 	16-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 16:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	16:30
+&startnsr;		=	16:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#17:00 Daily
+copy SLCSchedule
+&id;			=	17-00 Daily
+&name;			= 	17-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 17:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	17:00
+&startnsr;		=	16:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#17:30 Daily
+copy SLCSchedule
+&id;			=	17-30 Daily
+&name;			= 	17-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 17:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	17:30
+&startnsr;		=	17:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#18:00 Daily
+copy SLCSchedule
+&id;			=	18-00 Daily
+&name;			= 	18-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 18:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	18:00
+&startnsr;		=	17:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#18:30 Daily
+copy SLCSchedule
+&id;			=	18-30 Daily
+&name;			= 	18-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 18:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	18:30
+&startnsr;		=	18:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#19:00 Daily
+copy SLCSchedule
+&id;			=	19-00 Daily
+&name;			= 	19-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 19:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	19:00
+&startnsr;		=	18:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#19:30 Daily
+copy SLCSchedule
+&id;			=	19-30 Daily
+&name;			= 	19-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 19:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	19:30
+&startnsr;		=	19:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#20:00 Daily
+copy SLCSchedule
+&id;			=	20-00 Daily
+&name;			= 	20-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 20:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	20:00
+&startnsr;		=	19:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#20:30 Daily
+copy SLCSchedule
+&id;			=	20-30 Daily
+&name;			= 	20-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 20:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	20:30
+&startnsr;		=	20:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#21:00 Daily
+copy SLCSchedule
+&id;			=	21-00 Daily
+&name;			= 	21-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 21:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	21:00
+&startnsr;		=	20:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#21:30 Daily
+copy SLCSchedule
+&id;			=	21-30 Daily
+&name;			= 	21-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 21:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	21:30
+&startnsr;		=	21:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#22:00 Daily
+copy SLCSchedule
+&id;			=	22-00 Daily
+&name;			= 	22-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 22:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	22:00
+&startnsr;		=	21:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#22:30 Daily
+copy SLCSchedule
+&id;			=	22-30 Daily
+&name;			= 	22-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 22:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	22:30
+&startnsr;		=	22:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#23:00 Daily
+copy SLCSchedule
+&id;			=	23-00 Daily
+&name;			= 	23-00 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 23:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	23:00
+&startnsr;		=	22:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#22:30 Daily
+copy SLCSchedule
+&id;			=	23-30 Daily
+&name;			= 	23-30 Daily
+&desc;			=	Ejecuci&#243;n schedule a la 23:30 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	23:30
+&startnsr;		=	23:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#00:00 Daily
+copy SLCSchedule
+&id;			=	00-00 Daily
+&name;			= 	00-00 Daily 
+&desc;			=	Ejecuci&#243;n schedule a la 00:00 Daily
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	00:00
+&startnsr;		=	23:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Daily
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#SLCSchedulesWeekday
+#00:30 Weekday
+copy SLCSchedule
+&id;			=	00-30 Weekday
+&name;			= 	00-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 00:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	00:30
+&startnsr;		=	00:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#01:00 Weekday
+copy SLCSchedule
+&id;			=	01-00 Weekday
+&name;			= 	01-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 01:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	01:00
+&startnsr;		=	00:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#01:30 Weekday
+copy SLCSchedule
+&id;			=	01-30 Weekday
+&name;			= 	01-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 01:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	01:30
+&startnsr;		=	01:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#02:00 Weekday
+copy SLCSchedule
+&id;			=	02-00 Weekday
+&name;			= 	02-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 02:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	02:00
+&startnsr;		=	01:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#02:30 Weekday
+copy SLCSchedule
+&id;			=	02-30 Weekday
+&name;			= 	02-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 02:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	02:30
+&startnsr;		=	02:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#03:00 Weekday
+copy SLCSchedule
+&id;			=	03-00 Weekday
+&name;			= 	03-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 03:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	03:00
+&startnsr;		=	02:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#03:30 Weekday
+copy SLCSchedule
+&id;			=	03-30 Weekday
+&name;			= 	03-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 03:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	03:30
+&startnsr;		=	03:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#04:00 Weekday
+copy SLCSchedule
+&id;			=	04-00 Weekday
+&name;			= 	04-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 04:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	04:00
+&startnsr;		=	03:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#04:30 Weekday
+copy SLCSchedule
+&id;			=	04-30 Weekday
+&name;			= 	04-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 04:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	04:30
+&startnsr;		=	04:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#05:00 Weekday
+copy SLCSchedule
+&id;			=	05-00 Weekday
+&name;			= 	05-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 05:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	05:00
+&startnsr;		=	04:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#05:30 Weekday
+copy SLCSchedule
+&id;			=	05-30 Weekday
+&name;			= 	05-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 05:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	05:30
+&startnsr;		=	05:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#06:00 Weekday
+copy SLCSchedule
+&id;			=	06-00 Weekday
+&name;			= 	06-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 06:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	06:00
+&startnsr;		=	05:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#06:30 Weekday
+copy SLCSchedule
+&id;			=	06-30 Weekday
+&name;			= 	06-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 06:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	06:30
+&startnsr;		=	06:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#07:00 Weekday
+copy SLCSchedule
+&id;			=	07-00 Weekday
+&name;			= 	07-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 07:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	07:00
+&startnsr;		=	06:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#07:30 Weekday
+copy SLCSchedule
+&id;			=	07-30 Weekday
+&name;			= 	07-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 07:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	07:30
+&startnsr;		=	07:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#08:00 Weekday
+copy SLCSchedule
+&id;			=	08-00 Weekday
+&name;			= 	08-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 08:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	08:00
+&startnsr;		=	07:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#08:30 Weekday
+copy SLCSchedule
+&id;			=	08-30 Weekday
+&name;			= 	08-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 08:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	08:30
+&startnsr;		=	08:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#09:00 Weekday
+copy SLCSchedule
+&id;			=	09-00 Weekday
+&name;			= 	09-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 09:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	09:00
+&startnsr;		=	08:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#09:30 Weekday
+copy SLCSchedule
+&id;			=	09-30 Weekday
+&name;			= 	09-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 09:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	09:30
+&startnsr;		=	09:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#10:00 Weekday
+copy SLCSchedule
+&id;			=	10-00 Weekday
+&name;			= 	10-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 10:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	10:00
+&startnsr;		=	09:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#10:30 Weekday
+copy SLCSchedule
+&id;			=	10-30 Weekday
+&name;			= 	10-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 10:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	10:30
+&startnsr;		=	10:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#11:00 Weekday
+copy SLCSchedule
+&id;			=	11-00 Weekday
+&name;			= 	11-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 11:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	11:00
+&startnsr;		=	10:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#11:30 Weekday
+copy SLCSchedule
+&id;			=	11-30 Weekday
+&name;			= 	11-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 11:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	11:30
+&startnsr;		=	11:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#12:00 Weekday
+copy SLCSchedule
+&id;			=	12-00 Weekday
+&name;			= 	12-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 12:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	12:00
+&startnsr;		=	11:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#12:30 Weekday
+copy SLCSchedule
+&id;			=	12-30 Weekday
+&name;			= 	12-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 12:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	12:30
+&startnsr;		=	12:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#13:00 Weekday
+copy SLCSchedule
+&id;			=	13-00 Weekday
+&name;			= 	13-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 13:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	13:00
+&startnsr;		=	12:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#13:30 Weekday
+copy SLCSchedule
+&id;			=	13-30 Weekday
+&name;			= 	13-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 13:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	13:30
+&startnsr;		=	13:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#14:00 Weekday
+copy SLCSchedule
+&id;			=	14-00 Weekday
+&name;			= 	14-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 14:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	14:00
+&startnsr;		=	13:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#14:30 Weekday
+copy SLCSchedule
+&id;			=	14-30 Weekday
+&name;			= 	14-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 14:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	14:30
+&startnsr;		=	14:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#15:00 Weekday
+copy SLCSchedule
+&id;			=	15-00 Weekday
+&name;			= 	15-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 15:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	15:00
+&startnsr;		=	14:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#15:30 Weekday
+copy SLCSchedule
+&id;			=	15-30 Weekday
+&name;			= 	15-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 15:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	15:30
+&startnsr;		=	15:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#16:00 Weekday
+copy SLCSchedule
+&id;			=	16-00 Weekday
+&name;			= 	16-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 16:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	16:00
+&startnsr;		=	15:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#16:30 Weekday
+copy SLCSchedule
+&id;			=	16-30 Weekday
+&name;			= 	16-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 16:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	16:30
+&startnsr;		=	16:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#17:00 Weekday
+copy SLCSchedule
+&id;			=	17-00 Weekday
+&name;			= 	17-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 17:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	17:00
+&startnsr;		=	16:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#17:30 Weekday
+copy SLCSchedule
+&id;			=	17-30 Weekday
+&name;			= 	17-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 17:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	17:30
+&startnsr;		=	17:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#18:00 Weekday
+copy SLCSchedule
+&id;			=	18-00 Weekday
+&name;			= 	18-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 18:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	18:00
+&startnsr;		=	17:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#18:30 Weekday
+copy SLCSchedule
+&id;			=	18-30 Weekday
+&name;			= 	18-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 18:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	18:30
+&startnsr;		=	18:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#19:00 Weekday
+copy SLCSchedule
+&id;			=	19-00 Weekday
+&name;			= 	19-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 19:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	19:00
+&startnsr;		=	18:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#19:30 Weekday
+copy SLCSchedule
+&id;			=	19-30 Weekday
+&name;			= 	19-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 19:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	19:30
+&startnsr;		=	19:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#20:00 Weekday
+copy SLCSchedule
+&id;			=	20-00 Weekday
+&name;			= 	20-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 20:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	20:00
+&startnsr;		=	19:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#20:30 Weekday
+copy SLCSchedule
+&id;			=	20-30 Weekday
+&name;			= 	20-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 20:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	20:30
+&startnsr;		=	20:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#21:00 Weekday
+copy SLCSchedule
+&id;			=	21-00 Weekday
+&name;			= 	21-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 21:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	21:00
+&startnsr;		=	20:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#21:30 Weekday
+copy SLCSchedule
+&id;			=	21-30 Weekday
+&name;			= 	21-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 21:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	21:30
+&startnsr;		=	21:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#22:00 Weekday
+copy SLCSchedule
+&id;			=	22-00 Weekday
+&name;			= 	22-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 22:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	22:00
+&startnsr;		=	21:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#22:30 Weekday
+copy SLCSchedule
+&id;			=	22-30 Weekday
+&name;			= 	22-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 22:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	22:30
+&startnsr;		=	22:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#23:00 Weekday
+copy SLCSchedule
+&id;			=	23-00 Weekday
+&name;			= 	23-00 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 23:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	23:00
+&startnsr;		=	22:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#22:30 Weekday
+copy SLCSchedule
+&id;			=	23-30 Weekday
+&name;			= 	23-30 Weekday
+&desc;			=	Ejecuci&#243;n schedule a la 23:30 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	23:30
+&startnsr;		=	23:29
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE
+
+#00:00 Weekday
+copy SLCSchedule
+&id;			=	00-00 Weekday
+&name;			= 	00-00 Weekday 
+&desc;			=	Ejecuci&#243;n schedule a la 00:00 Weekday
+
+&dayner;		=	0
+&endner;		=
+&startner;		=
+
+&endnsr;		=	00:00
+&startnsr;		=	23:59
+
+
+&timezone;		=	America/Bogota
+&calendarid;	=	Weekday
+&enabled;		=	true
+&simpleslc;		=	false
+&enabled;		=	true
+&vistype;		=	private
+SLCSCHEDULE

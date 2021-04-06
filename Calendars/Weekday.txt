@@ -1,0 +1,16 @@
+copy CalendarsWeekday
+&id;			=	Weekday
+&desc;			=	Weekday
+&startdate;		=	2020/2/10
+&enddate;		=	
+&frequency;		=	1
+&type;			=	weekly
+
+&weekday01;		=	2
+&weekday02;		=	3
+&weekday03;		=	4
+&weekday04;		=	5
+&weekday05;		=	6
+
+&vistype;		=	private
+CALENDAR

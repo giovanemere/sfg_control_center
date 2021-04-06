@@ -1,0 +1,40 @@
+#ExampleSLCWorkFlowGroup
+copy SLCWfGroupsMPPut27Sch
+&id01;						=	ExampleSLCWorkFlowGroup
+&desc01;					=	Monitorear archivos pdf
+&enabled;					=	true
+&correlatorsource;			= 
+
+&schedule01;				=	08-00 Weekday
+
+&visibilitygroups;			=
+
+&missingevent;				=	true
+&suppressmilestonemessages;	=	true
+&monitortolerancestart;		=	1
+&monitortoleranceend;		=	0
+&jeopardylist;				= 
+&fireoncelist;				=
+&concurrencecount;			=	1
+&relativemilestoneschedules;=	false
+
+&id02;						=	ExampleSLCWorkFlowGroup
+&desc02;					=	Monitorear archivos pdf
+&correlatorsource;			=
+		
+&propertyname01;			=	XFER.MBOX_PATH
+&propertyvalue01;			=	/Partner-Producer
+&isregex01;					=	false
+&propertyname02;			=	XFER.IS_PUT
+&propertyvalue02;			=	true
+&isregex02;					=	false
+&propertyname03;			=	nodeId
+&propertyvalue03;			=	NodoSterling
+&isregex03;					=	false
+&propertyname04;			=	sourceFile
+&propertyvalue04;			=	*
+&isregex04;					=	false
+
+&start;						=	00:00
+&end;						=	00:01
+SLCWFGROUP
